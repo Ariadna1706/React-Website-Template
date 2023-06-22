@@ -26,7 +26,7 @@
 
 ## 💿 Installation
 
-The project uses [node](https://nodejs.org/en/), [npm](https://www.npmjs.com/). Having them installed, type into the terminal: `npm i` and `npm install json-server -g`.
+The project uses [node](https://nodejs.org/en/), [npm](https://www.npmjs.com/). Having them installed, type into the terminal: `npm i`.
 
 
 &nbsp;
