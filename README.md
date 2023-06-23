@@ -20,7 +20,7 @@
  
 ## 💡 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,webpack,json )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,webpack,json )](https://skillicons.dev)
 
 &nbsp;
 
